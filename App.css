@@ -1,0 +1,20 @@
+.bg-orange {
+    background-color: #FFA500;
+  }
+  
+  .bg-very-unhealthy {
+    background-color: #b208b2;
+  
+  }
+  
+  .bg-hazardous {
+    background-color: #70122d;
+  }
+
+body{
+  background: #00354E;
+  
+}
+.text-white{
+  color: white;
+}
